@@ -1,0 +1,15 @@
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\bin\Debug\net7.0-windows\Web_Browser_in_C#.exe
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\bin\Debug\net7.0-windows\Web_Browser_in_C#.deps.json
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\bin\Debug\net7.0-windows\Web_Browser_in_C#.runtimeconfig.json
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\bin\Debug\net7.0-windows\Web_Browser_in_C#.dll
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\bin\Debug\net7.0-windows\Web_Browser_in_C#.pdb
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.csproj.AssemblyReference.cache
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.AssemblyInfoInputs.cache
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.AssemblyInfo.cs
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.dll
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\refint\Web_Browser_in_C#.dll
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.pdb
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\Web_Browser_in_C#.genruntimeconfig.cache
+C:\Users\Justinas\Programing\C#\Web_Browser_in_C#\obj\Debug\net7.0-windows\ref\Web_Browser_in_C#.dll
