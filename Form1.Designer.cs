@@ -32,6 +32,17 @@ partial class Form1
         this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
         this.ClientSize = new System.Drawing.Size(800, 450);
         this.Text = "Form1";
+        
+    }
+
+
+        private void Working()
+    {
+        this.components = new System.ComponentModel.Container();
+        this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+        this.BackColor = Color.Pink;
+        this.ClientSize = new System.Drawing.Size(1000, 1000);
+        this.Text = "Form2";
     }
 
     #endregion
